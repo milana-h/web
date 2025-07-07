@@ -10,7 +10,7 @@ https://docs.google.com/spreadsheets/d/1YRXUbMnlRkWBTQJ2GWSxmnWUqZCx0VpuiftU6mdg
 https://github.com/milana-h/web/commit/09509b29eb2fad1a1a3040208c006c2fe33518d3
  
 ✅Баг-репорты для модулей корзины и оплаты в YouTrack
-https://github.com/milana-h/web/commit/e1bb6694efd22de1b2bb702e63c19bdccee8042f
+https://github.com/milana-h/web/commit/c0427275139ebd6a1fe07aaccba8245e95bb4d7a
 
 ✅Веб-кейсы 
 https://github.com/milana-h/web/commit/32c091757fe4bfc192772ac5c91e8730271e4901
